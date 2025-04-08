@@ -4,6 +4,8 @@ Let's get from code file to Markdown file to further process.
 
 File: code2md.py.
 
+TODO: I have to check myself at home and fix the errors. I generate some more code or templates and try to fix the errors later at home.
+
 ## Task itself
 
 Now second class:
